@@ -8,11 +8,6 @@
 [foundry]: https://getfoundry.sh/
 [foundry-badge]: https://img.shields.io/badge/Built%20with-Foundry-FFDB1C.svg
 
-[![Immunefi Discord](https://badgen.net/discord/online-members/immunefi)](https://discord.gg/immunefi)
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/immunefi)
-[![Medium](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/immunefi)
-[![YouTube](https://badgen.net/badge/icon/YouTube?icon=googleplay&label)](https://www.youtube.com/channel/UCmulw2BHpP6IiBM0Re0yP5Q)
-
 ## Overview
 
 Welcome to the Immunefi PoC Templates repository! Here, you'll find reusable and easily modifiable Proof of Concept (PoC) examples for various Ethereum Virtual Machine (EVM) based vulnerabilities. Clone the branch corresponding to the chosen [attack template](#template-categories). The aim is to enhance bug reporting quality and provide whitehat hackers with efficient tools to create PoCs and validate their findings quickly. These templates are intended for testing proof of concepts in local forks for submission to bug bounty programs. Any other use is explicitly prohibited.
